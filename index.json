@@ -1,0 +1,6 @@
+{
+    "name": "StaffMode",
+    "id": "cyoze.staff-mode",
+    "description": "Enables Discord's staff mode",
+    "dependencies": []
+}
